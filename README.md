@@ -17,21 +17,20 @@ Project Description : This website
 
 Primary Azure Technology : Static Web Apps, App Services.
 
-GitHub deploy link is : https://kvsssurya.github.io/Final_FRT_Pro7/
+GitHub deploy link is : 
 My azure deployed links:-
-Static Web App link: https://wonderful-wave-05b766000.2.azurestaticapps.net/
-App Services link: https://proclinic.azurewebsites.net/
+Static Web App link: https://yellow-pebble-0fa5fa910.2.azurestaticapps.net/
+App Services link: https://xoframwebsite.azurewebsites.net/
 
 #Home
-image image
+
 
 #About
-image image
 
-#Staff
-image image
 
-#Project
+#Services
+
+#Our Products
 image image
 
 #Contact
@@ -45,4 +44,3 @@ https://drive.google.com/file/d/1cLqbNhMSNkS5Z0TUsno9126RJmRfcx7U/view?usp=shari
 image
 
 image
-
