@@ -13,11 +13,13 @@ Industry : Earth
 Problem Statement/Opportunity : This website helps farmers use earth's soil in an efficient way to cultivate rich food and clarifies doubts about farming to the 
 interested people.
 
-Project Description : This website 
+Project Description : This website is meant to help every farmer who are interested in learning more about farming. This website gives a guidance to the farmers and help them learn efficient farming techniques.
 
 Primary Azure Technology : Static Web Apps, App Services.
 
-GitHub deploy link is : 
+## GitHub deploy link:
+https://sairakesh140.github.io/FRT_Final_Project/
+
 # Proof Of Using Azure Services:
 ![Screenshot 2023-01-25 152149](https://user-images.githubusercontent.com/116723062/214532395-eaa66fea-76b5-4585-955d-b36ec07975da.jpg)
 
