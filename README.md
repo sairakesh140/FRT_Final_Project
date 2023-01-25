@@ -20,13 +20,14 @@ Primary Azure Technology : Static Web Apps, App Services.
 GitHub deploy link is : 
 # Proof Of Using Azure Services:
 ![Screenshot 2023-01-25 152149](https://user-images.githubusercontent.com/116723062/214532395-eaa66fea-76b5-4585-955d-b36ec07975da.jpg)
-![Screenshot 2023-01-25 151904](https://user-images.githubusercontent.com/116723062/214532418-7304df52-9aa9-4d71-b30b-6cc4ddfc4f20.jpg)
-![Screenshot 2023-01-25 151931](https://user-images.githubusercontent.com/116723062/214532445-8ac983b0-9437-42f3-a1a0-6936963d9666.jpg)
 
 ## Static Web App link:
 https://yellow-pebble-0fa5fa910.2.azurestaticapps.net/
+![Screenshot 2023-01-25 151904](https://user-images.githubusercontent.com/116723062/214532418-7304df52-9aa9-4d71-b30b-6cc4ddfc4f20.jpg)
+
 ## App Services link:
 https://xoframwebsite.azurewebsites.net/
+![Screenshot 2023-01-25 151931](https://user-images.githubusercontent.com/116723062/214532445-8ac983b0-9437-42f3-a1a0-6936963d9666.jpg)
 
 ## Demo Video Link:
 https://drive.google.com/file/d/1XdYuJRuNKH7-R_hen8hyebW85a-7nIRA/view
