@@ -18,9 +18,15 @@ Project Description : This website
 Primary Azure Technology : Static Web Apps, App Services.
 
 GitHub deploy link is : 
-My azure deployed links:-
-Static Web App link: https://yellow-pebble-0fa5fa910.2.azurestaticapps.net/
-App Services link: https://xoframwebsite.azurewebsites.net/
+## Azure deployed links:-
+
+# Static Web App link:
+https://yellow-pebble-0fa5fa910.2.azurestaticapps.net/
+# App Services link:
+https://xoframwebsite.azurewebsites.net/
+
+# Demo Video Link:
+https://drive.google.com/file/d/1XdYuJRuNKH7-R_hen8hyebW85a-7nIRA/view
 
 #Home
 ![Screenshot 2023-01-24 145600](https://user-images.githubusercontent.com/116723062/214270977-ab52b821-065f-4770-bb59-23c1b355a4e6.jpg)
@@ -36,6 +42,3 @@ App Services link: https://xoframwebsite.azurewebsites.net/
 
 #Contact
 ![Screenshot 2023-01-24 161537](https://user-images.githubusercontent.com/116723062/214272020-7256885b-1247-4f50-bed6-e3a968d87902.jpg)
-
-
-#Demo video
